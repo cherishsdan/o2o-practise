@@ -1,0 +1,6 @@
+{
+  "a":{ "pwd_s":"a","role":1,"service": "clean"},
+  "b":{ "pwd_u":"b","role":2,"tel":"13700002345" },
+  "c":{ "pwd_s":"c","role":1,"service":"做饭"},
+  "d":{ "pwd_u":"d","role":1,"tel":"13700002344" }
+}
